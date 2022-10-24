@@ -14,8 +14,8 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-001-COMMANDLINE/       |
-| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-002-GIT-PRACTICE/         |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-001-COMMANDLINE/0-Git/GIT-001-COMMANDLINE/index.html      |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-002-GIT-PRACTICE/0-Git/GIT-002-GIT-PRACTICE/        |
 
 # JS Basics
 
@@ -27,9 +27,9 @@ How to use this repository
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |             |
-| 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |             |
-| 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01  |             |
+| 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/201-HTML-RESUME/index.html           |
+| 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/202-HTML-FORM/index.html           |
+| 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01|https://ashishwaghmare21.github.io/WebAssignment/2-HTML/203-HTML-Photo-Cat-App/index.html             |
 | 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   |             |
 
 # CSS
