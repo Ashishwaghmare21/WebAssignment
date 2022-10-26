@@ -1,1 +1,52 @@
-/* start your css here */
+body{
+    background-image: url(https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1,h2{
+    font-family: impact;
+}
+.est{
+    font-style: italic;
+}
+div{
+    width: 80%;
+    background-color:burlywood ;
+    margin-right: auto;
+    margin-left: auto;
+   padding: 20px;
+   max-width: 500px;
+}
+header{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+.flavor .dessert{
+    text-align: left;
+    width: 80%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+.item p{
+        display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+}
+
+h1{
+    font-size: 40px;
+
+}
+h2{
+    font-size: 20px;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color:brown;
+}
