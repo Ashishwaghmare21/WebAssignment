@@ -1,1 +1,12 @@
-/* start your css here */
+div img{
+    height: 353px;
+    width: 321px;
+}
+div h4{
+    padding: 8px;
+    margin: -6px;
+} 
+div h5{
+    color: rgb(100, 102, 104);
+    margin: -9px;
+    padding: 9PX;

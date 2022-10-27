@@ -30,15 +30,15 @@ How to use this repository
 | 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/201-HTML-RESUME/index.html           |
 | 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/202-HTML-FORM/index.html           |
 | 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01|https://ashishwaghmare21.github.io/WebAssignment/2-HTML/203-HTML-Photo-Cat-App/index.html             |
-| 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   |             |
+| 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/2-HTML/204-HTML-TRIBUTE-PAGE/index.html             |
 
 # CSS
 
 | S No. | Topic | Assignment                                                               | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------ | ----------- |
-| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |             |
-| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |             |
-| 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |             |
+| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01                 | https://ashishwaghmare21.github.io/WebAssignment/2-HTML/3-CSS/301-CSS-BLOG-WEBSITE/index.html           |
+| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |https://ashishwaghmare21.github.io/WebAssignment/2-HTML/3-CSS/302-CSS-Building-Cafe-Menu/index.html          |
+| 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            | https://ashishwaghmare21.github.io/WebAssignment/2-HTML/3-CSS/303-CSS-COLOR-MARKER/index.html           |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |             |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |             |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |             |

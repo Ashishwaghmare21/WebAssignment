@@ -1,1 +1,29 @@
-/* start your css here */
+div{
+    
+    background-color:black ;
+    margin-right: auto;
+    margin-left: auto;
+   padding: 10px;
+   max-width: 583px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+form input{
+    font-size: 15px;
+    margin: 17px;
+    padding: 18px 10px;
+    width: 500px;
+}
+
+.btn{
+    color: white;
+    font-size: 15px;
+    background: black;
+    border-color: white;
+    text-align: center;
+    height: 34px;
+    width: 117px;
+    align-content: center;
+}
