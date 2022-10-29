@@ -1,1 +1,67 @@
-/* start your styling here  */
+.container {
+    background-color: #dbddde;
+    color: black;
+    width: 69%;
+    font-family: Verdana;
+    display: flex;
+    justify-content: start;
+    height: 418px;
+    justify-content: center;
+    margin: initial;
+    padding: 10px;
+}
+.flex-item{
+    height:415px;
+    width: 372px;
+    
+    background-color:rgb(243, 139, 10);
+    justify-content: space-between;
+}
+.box{
+    justify-content: space-between;
+}
+img{
+    height: 30px;
+    width: 49px;
+    border-radius: 10px;
+    margin: 47px;
+}
+h1{
+    
+    color: white;
+    padding-left: 31px;
+    
+}
+p{
+    color:#fff5f5b8;
+    text-align: center;
+    padding: 29px;
+    text-align: start;
+    font-size: 14px;
+
+}
+button{
+    color: #ff9800;
+    height: 53px;
+    border-radius: 30px;
+    width: 132px;
+    text-align: center;
+    margin-left: 39px;
+    margin-top: -38px;
+    border: #dbddde;
+
+    
+}
+.flex-item2{
+    height: 415px;
+    width: 372px;
+    
+    background-color: #0d5e54;
+
+}
+.flex-item3{
+    height: 415px;
+    width: 372px;
+   
+    background-color: #084736
+}

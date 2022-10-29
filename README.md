@@ -14,8 +14,8 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-001-COMMANDLINE/0-Git/GIT-001-COMMANDLINE/index.html      |
-| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |WebAssignment/0-Git/GIT-002-GIT-PRACTICE/0-Git/GIT-002-GIT-PRACTICE/        |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |https://ashishwaghmare21.github.io/WebAssignment/0-Git/GIT-001-COMMANDLINE/index.html      |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |https://ashishwaghmare21.github.io/WebAssignment/0-Git/GIT-002-GIT-PRACTICE/index.ht      |
 
 # JS Basics
 
@@ -43,8 +43,8 @@ How to use this repository
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |https://ashishwaghmare21.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-02/index.html             |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |https://ashishwaghmare21.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-03/index.html           |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |https://ashishwaghmare21.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-04/index.html           |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |             |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |https://ashishwaghmare21.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-01/index.html           |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |https://ashishwaghmare21.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-02/index.html             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-04]                      |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-05]                      |             |
