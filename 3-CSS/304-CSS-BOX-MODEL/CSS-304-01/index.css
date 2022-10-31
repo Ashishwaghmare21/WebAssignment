@@ -26,17 +26,17 @@
     width: 323px;
     background-color:#ffe500cc;
     margin: auto;
-    border-radius: 12px;
+    border-radius: 35px;
     padding-top: 4px;
     border: 13px solid #9f1f1f;
 
 }
 .red{
     height: 139px;
-    width: 359px;
+    width: 355px;
     background-color: #ff000069;
     margin: auto;
-    border-radius: 8px;
+    border-radius: 35px;
     padding-top: 4px;
     border: 13px solid #9f1f1f;
 
@@ -47,7 +47,7 @@
     width: 323px;
     background-color: red;
     margin: auto;
-    border-radius: 12px;
+    border-radius: 35px;
     padding-top: 4px;
 
     border: 13px solid #9f1f1f;
