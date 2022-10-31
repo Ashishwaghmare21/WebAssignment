@@ -1,10 +1,55 @@
 
-.black{
+.contaner{
+    width: 499px;
+    height: 620px;
+    border-color: black;
     background-color: black;
+    padding: 48px;
 }
 .white{
+    width: 474px;
+    height: 577px;
     background-color: white;
+    margin: auto;
+    padding-top: 45px;
 }
 .borwn{
-    background-color: brown;
+    width: 384px;
+    height: 529px;
+    background-color:#9f1f1f;
+    margin: auto;
+    padding-top: 18px;
+    
 }
+ .yello{
+    height: 122px;
+    width: 323px;
+    background-color:#ffe500cc;
+    margin: auto;
+    border-radius: 12px;
+    padding-top: 4px;
+    border: 13px solid #943131de;
+
+}
+.red{
+    height: 139px;
+    width: 359px;
+    background-color: #ff000069;
+    margin: auto;
+    border-radius: 8px;
+    padding-top: 4px;
+    border: 13px solid #943131de;
+
+
+}
+.reddark{
+    height: 122px;
+    width: 323px;
+    background-color: red;
+    margin: auto;
+    border-radius: 12px;
+    padding-top: 4px;
+
+    border: 13px solid #943131de;
+}
+
