@@ -1,1 +1,19 @@
-/* start your styling here  */
+.btn{
+    display: flex;
+
+}
+.btn button{
+    background-color: orange;
+    border: 1px solid black;
+    height: 48px;
+    width: 102px;
+    color: white;
+    font-size: 19px;
+    justify-content: row;
+}
+button:hover{
+    background-color: red;
+}
+h1{
+    font-size:50px;
+}
