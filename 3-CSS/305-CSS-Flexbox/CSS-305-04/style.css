@@ -1,1 +1,87 @@
-/* start your styling here  */
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color:#2874f0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px 0;
+    height: 70px;
+}
+.plus-color p{
+    color: yellow;
+    font-weight: 900;
+}
+.logo {
+    color: white;
+    position: relative;
+    top:-5px;
+}
+.search {
+    background-color: white;
+    height:20px;
+    padding: 8px ;
+    width: 400px;
+    margin:0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color:#2844f0;
+    box-shadow: -7px -7px 10px rgba(0,0,0,0.1);
+    border-radius: 2px;
+}
+.search input{
+    width: 380px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+
+}
+.loginBtn{
+            padding: 7px 40px;
+            font-size: 16px;
+            font-weight: 550;
+            color: blue;
+    }
+.Navlink{
+            margin: 0px 20px ;
+            font-size: 18px;
+            color: white;
+            text-decoration: none;
+
+        }
+        
+        /* header section css */
+
+        .topproductNavbar{
+
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            padding: 10px 50px;
+            border-bottom: 1px solid #ccc;
+        }
+         
+    .productNavbar {
+                        width: 20px;
+                        height: 80px;
+    }   
+    .topproductNavbar-nav{
+        height: 112px;
+        width: 80px;
+        flex: 1;
+
+    }
+    .topproductNavbar-nav img{
+        width: 64px;
+        height: 64px;
+    }
+    .topproductNavbar-nav p{
+
+        font-weight: 500px;
+
+    }
+    .topproductNavbar-nav:hover{
+        color: #2844f0;
+    }
