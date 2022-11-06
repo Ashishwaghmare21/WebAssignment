@@ -1,1 +1,92 @@
-/* start your styling here  */
+.container{
+    background-color: #99fdf1ab;
+    display: flex;
+
+}
+.leftSide{
+    height: 727px;
+    width: 300px;
+    border-radius: 73px;
+    background-color:#ffffffb0;
+}
+
+
+.profile{
+    padding: auto;
+    text-align: center;
+
+
+}
+.profile img{
+    height: 100px;
+    width: 100px;
+    border-radius: 82px;
+    align-items: center;
+    margin: 49px;
+    
+
+}
+  h3{
+    margin-top:-45px;
+    
+}
+p{
+    margin-top: -12px;
+    color: rgb(154, 158, 161);
+}
+.mainu {
+    display: flex;
+    justify-content: center;
+    
+}
+.mainu a{
+    text-decoration: none;
+    font-size: 22px;
+    margin-top: 37px;
+    color: #006666;
+}
+.mainu:hover a{
+    color: blue;
+}
+.btn{
+    height: 127px;
+    width: 245px;
+    border-radius: 35px;
+    background-color: #a0e4de94;
+    font-size: 23px;
+    color: #0f597c;
+    margin: 67px 13px 17px 21px;
+}
+.rightside{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+   
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    padding: 34px;
+
+}
+
+
+.box1{
+    height: 126px;
+    border-radius: 29px;
+    width: 652px;
+    background-color: #ffffffa3;
+    margin: 20px;
+    display: flex;
+    justify-content: start;
+}
+.box1 img{
+    height:84px;
+    border-radius: 65px;
+    padding: 22px;
+    font-size: 10px;  
+}
+.ctn{
+    justify-content: space-around;
+
+}
